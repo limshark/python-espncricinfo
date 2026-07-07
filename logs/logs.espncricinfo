@@ -1,0 +1,417 @@
+  186  pushd ~/bin
+  187  ls -al
+  188  cd pyutils/
+  189  ls -al
+  190  vi pdf2text
+  191  ls -al
+  192  pwd
+  193  popd
+  194  ls -al
+  195  cd ..
+  196  ls
+  197  ls inputQ
+  198  vi readme.md
+  199  make run
+  200  vi makefile
+  201  make clean
+  202  ls -al
+  203  cat pyproject.toml 
+  204  ls -al
+  205  cd readonly\ copies/
+  206  ls -al
+  207  cd temp-gyan
+  208  ls
+  209  cd ../temp-gyan/
+  210  ls -al
+  211  vi node
+  212  ls -al
+  213  ls -al
+  214  ls -al
+  215  ls -al
+  216  vi .gitignore
+  217  ls -al
+  218  git status
+  219  ls -al
+  220  make
+  221  ls -al
+  222  make clean
+  223  ls -al
+  224  git init
+  225  git status
+  226  git add *.cpp
+  227  git add *.hpp
+  228  ls -al
+  229  git status
+  230  git add .gitignore
+  231  git status
+  232  git add Makefile
+  233  git add config.l
+  234  git add config.y
+  235  ls doc
+  236  git add doc
+  237  git status
+  238  ls examples
+  239  tree
+  240  cd examples
+  241  ls
+  242  ls -al
+  243  vi fly26_age 
+  244  git status
+  245  cd ..
+  246  ls
+  247  git status
+  248  git add examples
+  249  git status
+  250  git log
+  251  git commit -m "Baseline before moved to github"
+  252  gh repo create ubiqare/boosimAdvait --private --source=. --remote=origin --push
+  253  git status
+  254  git branch -l
+  255  git branch -r
+  256  ls -al
+  257  ls -al
+  258  pwd
+  259  cd ..
+  260  mv booksimAdvaith/ ~/gitworkspace/limshark/
+  261  ls -al
+  262  cd 
+  263  cd gitworkspace
+  264  ls -al
+  265  cd limshark
+  266  ls
+  267  cp booksimAdvaith/.git/config booksimAdvaith.github
+  268  githubls
+  269  cd
+  270  cd Downloads/
+  271  ls -al
+  272  cd dots
+  273  ls -al
+  274  pwd
+  275  cd dots
+  276  ls -al
+  277  pwd
+  278  cd dots
+  279  ls -al
+  280  vi bashrc
+  281  vi boto
+  282  vi config
+  283  cd config
+  284  ls -al
+  285  cd gcloud
+  286  ls -al
+  287  cd logs
+  288  ls -al
+  289  vi 2018.02.09
+  290  pwd
+  291  cd ..
+  292  ls
+  293  cd configurations
+  294  ls -al
+  295  vi config_default 
+  296  pwd
+  297  cd ..
+  298  ls -al
+  299  vi active_config 
+  300  vi access_tokens.db 
+  301  vi .last_update_check.json 
+  302  vi gce
+  303  cd legacy_credentials/
+  304  l
+  305  ls -al
+  306  vi prasannalimaye\@gmail.com/
+  307  vi *
+  308  ls -al
+  309  pwd
+  310  cd ../..
+  311  ls
+  312  cd git
+  313  ls -al
+  314  vi ignore
+  315  rm ignore
+  316  ls -al
+  317  cd .
+  318  cd ..
+  319  rmdir git
+  320  ls -al
+  321  cd ..
+  322  ls -al
+  323  vi wget-hsts
+  324  rm wget-hsts 
+  325  vi viminfo
+  326  rm viminfo
+  327  ls -al
+  328  vi yarnrc
+  329  rm yarnrc 
+  330  vi zshrc
+  331  ls
+  332  ls -al
+  333  vi uuiqwknrc 
+  334  vi sh_history 
+  335  rm sh_history 
+  336  vi rnd
+  337  vi python_history 
+  338  rm python_history 
+  339  vi profile
+  340  rm profile 
+  341  vi octave_hist 
+  342  rm octave_hist 
+  343  ls -al
+  344  vi psql_history 
+  345  rm psql_history 
+  346  vi mongorc.js
+  347  vi mongorc.js 
+  348  rm mongorc.js 
+  349  vi login
+  350  rm login
+  351  vi gitconfig
+  352  vi gitignore_global 
+  353  rm gitignore_global 
+  354  ls -al
+  355  vi hskdmose 
+  356  rm hskdmose 
+  357  vi exrc
+  358  rm exrc
+  359  vi dbshell
+  360  vi cshrc
+  361  rm cshrc
+  362  vi boto
+  363  vi boto
+  364  rm boto
+  365  vi bashrc
+  366  ls -al
+  367  vi netrc
+  368  vi netrc
+  369  rm netrc
+  370  vi uuiqwknrc 
+  371  rm uuiqwknrc 
+  372  vi v8flags.json 
+  373  rm v8flags.json 
+  374  cat zshrc
+  375  ls -al
+  376  rm zshrc 
+  377  ls -al
+  378  od -x rnd
+  379  od -c rnd
+  380  vi rnd
+  381  ls -al
+  382  cd config
+  383  ls -a
+  384  cd gcloid
+  385  cd gcloud/
+  386  ls -al
+  387  cd ..
+  388  l s-al
+  389  ls
+  390  cd ..
+  391  ls
+  392  vi dbshell
+  393  rm dbshell
+  394  ls -al
+  395  rm rnd
+  396  ls -al
+  397  vi bashrc
+  398  mv bashrc bashrc.oldmac
+  399  ls -al
+  400  mv config/gcloud gcloudconfig.oldmac
+  401  ls -al
+  402  ls config
+  403  rmdir config
+  404  ls -al
+  405  vi gitconfig
+  406  mv gitconfig gitconfig.oldmac
+  407  ls -al
+  408  ls al
+  409  ls -al
+  410  vi gitconfig.oldmac
+  411  ls -al
+  412  cd g
+  413  g it
+  414  ls -al
+  415  cd wip-q
+  416  ls -al
+  417  cd savingbank
+  418  ls -al
+  419  git status
+  420  git branch -l
+  421  git branch -r
+  422  cd savingbank
+  423  ls -al
+  424  cd citisb
+  425  ls -al
+  426  cd ..
+  427  ls
+  428  ls
+  429  cd ..
+  430  ls
+  431  ls inputQ
+  432  cd inputQ
+  433  cd citisb
+  434  ls -al
+  435  cd sum
+  436  ls -al
+  437  vi *csv
+  438  ls -al
+  439  cd
+  440  g code
+  441  find . -name "booksim*" -print
+  442  pwd
+  443  cd ..
+  444  ls
+  445  cd gitworkspace
+  446  ls -al
+  447  find . -name "booksim*" -print
+  448  cd codeworks
+  449  ls
+  450  ls -al
+  451  vi giftreceived
+  452  cd ..
+  453  ls -al
+  454  mv x\ 20250125\ Junk\ or\ \ Dell\ forum\ Gift/ "x 20250125 Dell forum Gift - raw sienna colored bag"
+  455  git status
+  456  cd .
+  457  cd ..
+  458  ls -al
+  459  cd codeworks
+  460  ls -al
+  461  g it
+  462  ls
+  463  cd wip-q
+  464  ls -al
+  465  cd savingbank
+  466  ls
+  467  git log
+  468  git tag -l
+  469  ls -al
+  470  ls outputQ
+  471  ls inputQ
+  472  cd tests
+  473  ls -al
+  474  cd testinputs
+  475  ls -al
+  476  vi ammi_wip.DELIMITED 
+  477  ls -al
+  478  cd inputQ
+  479  cd ../inputQ
+  480  ls -al
+  481  pwd
+  482  cd ..
+  483  ls
+  484  cd ..
+  485  ls
+  486  make clean
+  487  ls -al
+  488  gitls
+  489  nodels
+  490  pycachels
+  491  make clean
+  492  ls -al
+  493  pycachels
+  494  vi makefile
+  495  make clean
+  496  pycachels
+  497  ls -al
+  498  git status
+  499  ls dist
+  500  vi bugs
+  501  g code
+  502  ls -al
+  503  cd projectsubiq/
+  504  ls -al
+  505  ls snomed
+  506  vi package.json
+  507  ls -al
+  508  cd snomed/
+  509  ls
+  510  vi package.json
+  511  ls -al
+  512  vi snomed-ui-examples.github 
+  513  rm package.json package-lock.json 
+  514  ls -al
+  515  pwd
+  516  cd ..
+  517  ls
+  518  cd abdm
+  519  ls
+  520  tree
+  521  cd testabdm
+  522  ls
+  523  vi testabdm 
+  524  pwd
+  525  ls -al
+  526  cd ..
+  527  ls -al
+  528  cd ..
+  529  ls
+  530  cd projectsasmita/
+  531  ls -al
+  532  cd ..
+  533  ls
+  534  cd limutils
+  535  ls -al
+  536  git status
+  537  cd utils-node
+  538  ls
+  539  ls -al
+  540  cd iplt20
+  541  ls -al
+  542  vi ipt20.js
+  543  vi iplt20.js
+  544  ls -al
+  545  vi iplt20.json
+  546  npm install
+  547  ls -al
+  548  node iplt20.js
+  549  vi iplt20.js
+  550  ls -al
+  551  npm audit fix
+  552  npm audit fix --force
+  553  vi package.json
+  554  node iplt20.js
+  555  vi iplt20.js
+  556  ls -al
+  557  rm -rf node_modules
+  558  vi iplt20.json
+  559  ls -al
+  560  vi package.json
+  561  pwd
+  562  cd ../utils-py3
+  563  cd ..
+  564  ls
+  565  cd ..
+  566  ls
+  567  cd utils-py3
+  568  ls -al
+  569  mkdir espncricinfo-stuff
+  570  cd espncricinfo-stuff/
+  571  ls -al
+
+
+
+
+
+
+  gh repo clone limshark/python-espncricinfo
+  cd python-espncricinfo/
+  mkdir distspecific
+  mv setup.py distspecific/
+  mv setup.cfg distspecific/
+  mv changelog.md distspecific/
+  mv requirements.txt distspecific/
+  mv Citation.cff distspecific/
+  mv README.md distspecific/
+  mv LICENSE.txt distspecific/
+
+  poetry init
+  poetry add beautifulsoup4
+  poetry add requests
+  poetry run python3 -m tests
+  cd espncricinfo/
+
+  mkdir tests
+  mv tests.py tests/
+
+  poetry run python3 -m tests.tests
+  vi tests/tests.py
+  poetry run python3 -m tests.tests
+
+
